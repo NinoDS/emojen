@@ -5,7 +5,7 @@ Emojen is a simple command line tool to generate emoji images with gradient back
 
 ## Installation
 ```bash
-$ git clone https://git.kkg.berlin/friedr.dari/emogen.git
+$ git clone https://github.com/NinoDS/emojen.git
 $ cd emogen
 $ npm install
 ```
