@@ -1,9 +1,7 @@
 # 🌈 Emojen
-Pronounced as `/ɪˈmoʊdʒɛn/
+Pronounced as /ɪˈmoʊdʒɛn/
 
 Emojen is a simple command line tool to generate emoji images with gradient backgound for your GitLab repositories.
-
-// Install: clone from git, then npm i, then run main.py with python
 
 ## Installation
 ```bash
